@@ -24,4 +24,4 @@ Este projeto faz parte de um teste técnico, referente ao processo seletivo para
 ### Clonar o Repositório
 
 ```bash
-git clone https://github.com/Jricardossilva/PorjetoDemander.git
+git clone https://github.com/Jricardossilva/ProjetoDemander.git
